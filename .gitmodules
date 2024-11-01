@@ -1,0 +1,4 @@
+[submodule "lib/source-engine"]
+	path = lib/source-engine
+	url = https://github.com/ChrisUMB/source_engine_2007
+
